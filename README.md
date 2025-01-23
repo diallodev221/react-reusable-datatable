@@ -228,25 +228,3 @@ function App() {
 
 export default App;
 ```
-
-## Contributions
-
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, veuillez suivre ces étapes :
-
-  1. **Fork le Répertoire** : Cliquez sur le bouton "Fork" en haut de la page du dépôt.
-  2. **Créer une Branche** : Créez une nouvelle branche pour votre fonctionnalité ou correction de bug.
-    ```bash
-    git checkout -b feature/nom-de-la-fonctionnalité
-    ```
-  3. **Faire des Modifications** : Apportez vos modifications nécessaires dans votre branche.
-  4. **Commit vos Modifications** : Commitez vos modifications avec un message clair et concis.
-    ```bash
-    git commit -m "Ajout de la fonctionnalité X (like pagination or sorting)"
-    ```
-  5. **Pousser vers le Dépôt** : Poussez vos modifications vers votre dépôt forké.
-    ```bash
-    git push origin feature/nom-de-la-fonctionnalité
-    ```
-  6. **Créer une Pull Request** : Ouvrez une pull request sur le dépôt original et décrivez vos modifications en détail.
-
-Merci pour votre soutien et vos contributions!
